@@ -1,0 +1,10 @@
+{
+  "badgeVisible": true,
+  "builtinServers": [
+    {
+      "name": "Mr Bit Minecraft",
+      "address": "mc.json.scot",
+      "forced": true
+    }
+  ]
+}

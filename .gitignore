@@ -1,0 +1,13 @@
+*
+!*/
+!instance.json
+!instance.png
+!cleanup.*
+!.gitignore
+!/modjars/**
+!/shaderpacks/**
+!/kubejs/**
+!/config/slightguimodifications/cts.groovy
+!/config/slightguimodifications/background.png
+!/config/builtinservers.json
+!/config/mrbitmc/**
